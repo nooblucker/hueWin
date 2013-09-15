@@ -1,4 +1,4 @@
-hueWin
-======
+# hueWin
 
-experiments with windows 8 store apps and philips hue.
+## Philips Hue Bridge UPnP discovery via UDP datagram socket (SSDP)
+
