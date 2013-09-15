@@ -6,3 +6,6 @@ see discover.js for a working example to locate philips hue bridges in your netw
 `var bridges = [ "http://192.168.1.10:80/" ];`
 
 then you can connect to the API and do whatever you want.
+
+# credits
+* [Lewis Benge](http://www.lewisbenge.net/index.php/2012/11/device-discovery-ssdp-in-windows-8-and-winrt/) described how he discovers his Samsung SmartTV with C# and this helped me a lot to get started
